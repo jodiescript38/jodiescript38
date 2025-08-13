@@ -42,18 +42,12 @@ QA Engineer. S.Korea. <br>
 - Project : Hanhwa vision SW <span>$\color{#FF4000}(Details\ cannot\ be\ shared\ due\ to\ security\ concern)$</span>
 - Test automation development & specification of test cases
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/objc-000000?style=flat-square&logo=apple&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Squish-9013FE?style=flat-square&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000"/></a> 
 
 ### Alchera (2023.12 ~ 2024.05)
 - **QA Engineer**
