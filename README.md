@@ -1,4 +1,4 @@
-# 🐻‍❄️ DwightLotte
+# :bird: JodieDev
 Software Developer. S.Korea. <br>
 
 <br>
