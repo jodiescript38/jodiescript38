@@ -1,5 +1,5 @@
-# 🐻‍❄️ jaketheqa
-QA Engineer. S.Korea. <br>
+# 🐻‍❄️ dwightlotte
+Software Developer. S.Korea. <br>
 
 <br>
 
