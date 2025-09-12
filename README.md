@@ -97,7 +97,7 @@ Software Developer. S.Korea. <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-### :honey_pot: Honeyplate &nbsp; [https://github.com/jaketheqa/Honeyplate](https://github.com/jaketheqa/Honeyplate)
+### :honey_pot: Honeyplate &nbsp; [https://github.com/jodiedev38/Honeyplate](https://github.com/jodiedev38/Honeyplate)
   - Team Project(5), March. 2021
   - Restaurant review & reservation web service
   - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -106,13 +106,13 @@ Software Developer. S.Korea. <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-### :violin: JAKE &nbsp; [https://github.com/jaketheqa/JAKE](https://github.com/jaketheqa/JAKE)
+### :violin: JAKE &nbsp; [https://github.com/jodiedev38/JAKE](https://github.com/jodiedev38/JAKE)
   - Personal Project, February. 2021
   - Making personal website(Static web pages).
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-### :beer: Beer Curator &nbsp; [https://github.com/jaketheqa/BeerCurator](https://github.com/jaketheqa/BeerCurator)
+### :beer: Beer Curator &nbsp; [https://github.com/jodiedev38/BeerCurator](https://github.com/jodiedev38/BeerCurator)
   - Personal Project, August. 2020
   - Provides basic beer knowledge(such as beer styles and glassware) & recommendation.
   - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
