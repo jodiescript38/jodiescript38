@@ -41,7 +41,7 @@ Software Engineer. S.Korea. <br>
 ### Onycom (2025.04 ~ 2025.09)
 - **Test Automation Engineer**
 - Project : Hanhwa Vision CCTV SW <span>$\color{#FF4000}(Details\ cannot\ be\ shared\ due\ to\ security\ concern)$</span>
-- Test automation development & specification of test cases
+- Test Automation Development & Authoring Test Cases
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Squish-9013FE?style=flat-square&logoColor=white"/></a>
@@ -53,7 +53,7 @@ Software Engineer. S.Korea. <br>
 ### Alchera (2023.12 ~ 2024.05)
 - **QA Engineer**
 - Project : FaceSDK
-- QA/QC FaceSDK for Financial Services
+- QA/QC FaceSDK for Financial Services & Test Automation Development
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
